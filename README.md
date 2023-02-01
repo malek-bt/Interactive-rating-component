@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code on GitHub]()
+- Solution URL: [Code on GitHub](https://github.com/malek-bt/Interactive-rating-component)
 - Live Site URL: [GitHub Pages Live URL]()
 
 ## My process
